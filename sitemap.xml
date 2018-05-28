@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jondelmil.github.io/posts/my-setup/</loc>
+    <lastmod>2018-05-27T15:01:25-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jondelmil.github.io/</loc>
+    <lastmod>2018-05-27T15:01:25-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jondelmil.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jondelmil.github.io/posts/</loc>
+    <lastmod>2018-05-27T15:01:25-06:00</lastmod>
     <priority>0</priority>
   </url>
   
